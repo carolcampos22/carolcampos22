@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Carolina M. Campos! 👋
 
 <!--
 **carolcampos22/carolcampos22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a front-end developer, but I'm currently working on both front and back-end projects, as I'm learning full-stack development. My current front-end project is Potterpedia, a site about the Harry Potter saga, where you can find information about characters and spells, created with React.js and styled-components. My back-end project is Labook, a social media platform in the style of Facebook, built with Express, OOP, and more. I'm always ready to continuously learn and face new challenges. You can always reach me on my [LinkedIn](https://www.linkedin.com/in/dev-carolina-mendes/) and explore more about my work on my [page](https://portfolio-carolcampos22.vercel.app/index.html). See you!
